@@ -9,7 +9,7 @@ largest = max(input1, input2, input3)
 print("The largest number is:", largest)
 
 # trying to use if/else
-if input3 > inp1ut2 and input3 > input1:
+if input3 > input2 and input3 > input1:
     print("The 3rd entry was the largest", input3)
 else:
     if input2 > input3 and input2 > input1:
